@@ -9,7 +9,7 @@ The Discord Developer badge is "Of course" a badge that is given to users that h
 
 - A Discord Bot Token
 
-![image](https://github.com/user-attachments/assets/e253ae39-a323-4f9d-9365-fb81f728406f)
+![image](https://github.com/user-attachments/assets/f943a448-b8c3-4524-96e4-a50351341277)
 
 ## Steps
 ### Step 1
